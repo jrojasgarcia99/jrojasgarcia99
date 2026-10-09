@@ -12,7 +12,7 @@ Automation & AI integration developer from Costa Rica. I connect systems, remove
 | Project | What it is |
 | --- | --- |
 | [fineticap-showcase](https://github.com/jrojasgarcia99/fineticap-showcase) | Architecture and walkthrough of Fineticap (the app's code is private) |
-| _Coming soon_ | n8n workflow template |
+| [n8n-workflows](https://github.com/jrojasgarcia99/n8n-workflows) | Social publisher and WhatsApp sales agent.
 | _Coming soon_ | MCP server |
 
 ## Toolbox
