@@ -5,15 +5,15 @@ Automation & AI integration developer from Costa Rica. I connect systems, remove
 - 🏦 **By day:** RPA Analyst at a bank — Power Automate Cloud/Desktop, AI Builder, Copilot Studio agents and SAP automation for critical financial operations.
 - 🛠️ **Building:** [Fineticap](https://fineticap.com), a personal and family budgeting app (Next.js, TypeScript, Supabase), developed AI-natively with Claude Code.
 - 🔄 **Automating:** n8n workflows that connect social media, WhatsApp, Telegram, Shopify, OneDrive and AI voice services.
-- 🌱 **Learning now:** MCP servers, agent frameworks and contributing to open-source automation tools.
+- 🌱 **Learning now:** agent frameworks and contributing to open-source automation tools.
 
 ## Featured
 
 | Project | What it is |
 | --- | --- |
 | [fineticap-showcase](https://github.com/jrojasgarcia99/fineticap-showcase) | Architecture and walkthrough of Fineticap (the app's code is private) |
-| [n8n-workflows](https://github.com/jrojasgarcia99/n8n-workflows) | Social publisher and WhatsApp sales agent.
-| _Coming soon_ | MCP server |
+| [n8n-workflows](https://github.com/jrojasgarcia99/n8n-workflows) | Social publisher and WhatsApp sales agent |
+| [costa-rica-payroll-mcp](https://github.com/jrojasgarcia99/costa-rica-payroll-mcp) | MCP server for Costa Rica payroll, published on npm |
 
 ## Toolbox
 
