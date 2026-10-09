@@ -17,9 +17,9 @@ Automation & AI integration developer from Costa Rica. I connect systems, remove
 
 ## Toolbox
 
-**Automation:** n8n · Power Automate · AI Builder · Copilot Studio
-**Web (AI-assisted):** TypeScript · Next.js · React · Supabase · Vercel · Capacitor
-**Cloud:** Azure · Entra ID · Intune · Microsoft 365 · PowerShell · SQL
+- **Automation:** n8n · Power Automate · AI Builder · Copilot Studio
+- **Web (AI-assisted):** TypeScript · Next.js · React · Supabase · Vercel · Capacitor
+- **Cloud:** Azure · Entra ID · Intune · Microsoft 365 · PowerShell · SQL
 
 ## Contact
 
